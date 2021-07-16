@@ -4,15 +4,25 @@ Multiple Tools For Subdomain Enumeration:-
 You need to install the required tools and add your API keys:-
 
 https://github.com/OWASP/Amass/blob/master/doc/install.md
+
 https://github.com/projectdiscovery/chaos-client
+
 https://github.com/projectdiscovery/subfinder
+
 https://github.com/tomnomnom/assetfinder
+
 https://github.com/Findomain/Findomain
+
 https://github.com/gwen001/github-subdomains
+
 https://github.com/Cgboal/SonarSearch
+
 https://github.com/projectdiscovery/httpx
+
 https://github.com/projectdiscovery/nuclei
+
 https://github.com/projectdiscovery/nuclei-templates
+
 https://github.com/emadshanab/Nuclei-Templates-Collection
 
 
